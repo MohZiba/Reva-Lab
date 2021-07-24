@@ -1,0 +1,7 @@
+a = input()
+print("The five function of String are")
+print("I. Upper -> ",a.upper())
+print("II. Lower -> ",a.lower())
+print("III. Length -> ",len(a))
+print("IV. Center ->",a.center(20))
+print("V. SwapCase ->",a.swapcase())
